@@ -1,0 +1,81 @@
+a{
+    color: #FFF;
+}
+
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    padding: 50px;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Sacramento', cursive;
+    font-size: 1.7rem;
+    text-align: center;
+
+}
+
+.about-div{
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.about-img{
+    width: 170px;
+    height: 170px;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.q-img{
+    width: 100px;
+    height: 100px;
+    margin: 200px;
+    border-radius: 100%;
+}
+
+.q-div{
+    display: block;
+    text-align: center;
+    padding: 60px;
+}
+
+
+.p-abt{
+    font-size: 1.25rem;
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.intro_img{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    display: block;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Intro{
+    background-color: #a0c1b8;
+}
+
+.About{
+    background-color:  #f4ebc1;
+}
+
+.Qualif{
+    background-color: #a0c1b8;
+}
+
+.ic{
+    margin: 20px 10px;
+}
+
+.contact{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #f4ebc1;
+}
